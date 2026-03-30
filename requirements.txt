@@ -2,6 +2,6 @@ numpy
 pandas
 matplotlib
 scikit-learn
-streamlit
+streamlit==0.1.0
 Pillow
 seaborn
